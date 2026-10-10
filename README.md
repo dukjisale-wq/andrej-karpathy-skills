@@ -8,6 +8,12 @@ A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej 
 
 English | [简体中文](./README.zh.md)
 
+## 한글 요약
+
+- Andrej Karpathy가 지적한 LLM 코딩 실수(잘못된 가정, 과도한 복잡화, 불필요한 코드 수정)를 줄이기 위한 `CLAUDE.md` 파일 하나를 제공함.
+- 핵심 원칙 4가지: 코딩 전 생각하기, 단순함 우선, 꼭 필요한 부분만 수정, 검증 가능한 목표 기반 실행.
+- Claude Code 플러그인으로 설치하거나 `CLAUDE.md`를 프로젝트에 직접 복사해 사용함.
+
 ## The Problems
 
 From Andrej's post:
